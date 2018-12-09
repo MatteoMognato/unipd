@@ -1,0 +1,5 @@
+Moby Dick;721;Herman;Melville
+Don Chisciotte della Mancia;1018;Miguel;de Cervantes
+Il barone rampante;302;Italo;Calvino
+Madame Bovary;436;Gustave;Flaubert
+Il sentiero dei nidi di ragno;196;Italo;Calvino
