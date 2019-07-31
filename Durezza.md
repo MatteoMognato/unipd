@@ -1,4 +1,4 @@
-## Durezza
+# Durezza
 
 La durezza di un materiale è generalmente definita come resistenza che esso oppone alla penetrazione di un altro corpo di durezza maggiore e di definita geometria, al quale è applicato lentamente un determinato carico nella direzione perpendicolare alla superficie da esaminare.
 
@@ -12,15 +12,15 @@ compressione.
 b) migliore resistenza ad usura.
 c) maggior fragilità del materiale
 
-# La prova di durezza Brinell 
+### La prova di durezza Brinell 
 
 Prevede l'utilizzo di un penetratore sferico con diametro da 2 a 10 mm in carburo di tugsteno o in acciaio temprato, viene applicato un carico che varia da qualche kgf a 3000 kgf. Esso è correlabile alla tensione di rottura BHN = 3 * σR
 
-# La prova di durezza Vickers
+### La prova di durezza Vickers
 
 Utilizza un penetratore pirameudale a base quadrata in diamante, con angolo al vertice di 136°. Il carico applicato può variare da 1 a 120 kgf da determinarsi in base alla durezza del materiale. L'indentazione è quadrata e si ha VHN = 1,854 * F/d^2 
 
-# La prova di durezza Rockwell
+### La prova di durezza Rockwell
 
 di gran lunga la più eseguita
 • Facilità e rapidità di esecuzione
@@ -46,7 +46,7 @@ Modalità della prova:
 
 Utilizzerò un comparatore per vedere quanto il penetratore si è spostato linearmente. E' una prova utile per vedere la durezza dello stato superficiale
 
-# Microdurezza 
+### Microdurezza 
 
 Problemi di durezza su piccole aree (gradiente di durezza su acciaio cementato, durezza su un costituente strutturale di una lega, denti di un ingranaggio da orologio)
 
@@ -56,7 +56,7 @@ Posso utilizzare 2 tipi di prove:
 
 Le prove di microdurezza prevedono di fare più misurazioni poichè essendo la misurazione della scala del micron è facile che la misurazione risenta di eventuali porosità del materiale oppure del fatto che non sia stato portato completamente a specchio. 
 
-# Regole generali della prova di durezza 
+### Regole generali della prova di durezza 
 
 - spessore dei pezzi deve essere dieci volte la profondità prevista per l'impronta
 - distanza tra impronta ed impronta e dal bordo del campione pari a 2,5 - 3 diametri dell'impronta
