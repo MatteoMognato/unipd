@@ -1,4 +1,10 @@
 # TEMPRA
+E' un trattamento termico così da avere a temperatura ambiente la struttura martensitica, caratterizzata, come descritto in precedenza, da grande durezza e fragilità.
+
+PROCESSO DI TEMPRA:
+1. Riscaldamento a T > Ac3 (ipo) e > Ac1 (iper)
+2. permanenza a tale T per un tempo sufficiente ad ottenere nelle zone interessate l'omogeneità e l'equilibrio strutturale
+3. raffreddamenento con velocità superiore a quella critica di tempra fino ad un campo di T prossimo ad Ms.
 
 In un processo di tempra per avere una struttura completamente martensitica si deve avere:
 - la T di riscaldamento del mat e il tempo di permanenza devono essere tali da permettere la completa trasformazione austenitica
@@ -39,8 +45,11 @@ E' utilizzata per capire la temprabilità di un materiale.
 
 ![](img/jominy.png)
 
+###Cricche di tempra
 
-### Tempra Bainitica
+Poiché la trasformazione austenite-martensite avviene con aumento di volume (un acciaio al carbonio di composizione eutettoidica presenta un aumento intorno al 4%) ed in modo pressoché istantaneo, il trattamento di tempra induce negli acciai sforzi interni anche rilevanti che possono portare a deformazioni o addirittura alla rottura dei pezzi o alla formazione delle cosiddette cricche di tempra.
+
+### Tempra Bainitica (Austempering)
 La tempra bainitica è un processo di trattamento termico per metalli ferrosi a medio-alto contenuto di carbonio che consente di ottenere una struttura metallurgica denominata bainite. Viene usata per aumentare resistenza, solidità e deformazione ridotta.
 
 1. Austenizzazione
@@ -52,4 +61,27 @@ La tempra bainitica è un processo di trattamento termico per metalli ferrosi a 
 
 Poi raffreddamento a T ambiente.
 
+### Tempra scalare (Martempering)
 
+Lo scopo è di ottenere una struttura martensitica che conferisce al materiale particolari caratteristiche di durezza, riducendo il pericolo di distorsioni o di cricche di tempra negli acciai particolarmente sensibili a tali fenomeni.
+
+1) Austenitizzazione;
+2) raffreddamento con bagno salito termostatato, fino a temperatura prossima ad Ms con velocità superiore a quella critica;
+3) permanenza a tale temperatura fino a realizzare una certa uniformità termica tra cuore e superficie, ma non da provocare l'inizio della trasformazione dell'austenite;
+4) raffreddamento rapido fino a temperatura ambiente.
+
+Tale trattamento può essere completato con un rinvenimento per ottenere durezza e tanicità più adeguate.
+
+### Tempra superficiale
+
+Può essere eseguita in 2 metodi attraverso:
+1. Metodo Tocco o ad induzione
+2. Processo Shorter (alla fiamma ossiacetilenica)
+
+Prima del trattamento è necessario che l’acciaio sia stato trattato per avere a cuore le prefissate proprietà (BONIFICA o anche normalizzazione).
+
+La tempra ad induzione sfrutta le proprietà delle correnti indotte di alta frequenza di distribuirsi solo nello strato sottostante la superficie di un materiale metallico. Il pezzo di acciaio (tipicamente di forma cilindrica) viene fatto passare all’interno di una bobina induttrice opportunamente sagomata (si realizza in tal modo per effetto Joule un rapidissimo riscaldamento superficiale dell’acciaio al di sopra del punto A c3 , mentre il cuore rimane freddo), per poi introdurlo immediatamente in un bagno di tempra.
+
+La profondità di indurimento dipende dalla potenza elettrica specifica usata e dal tempo. L’esperienza consiglia di adottare elevate potenze specifiche per tempi brevi, qualora si debbano realizzare profondità di penetrazione di tempra limitate; potenze inferiori, ma tempi più lunghi, per profondità di penetrazione maggiori.
+![](img/tempraInduzione.png)
+![](img/graficiTempra.png)
