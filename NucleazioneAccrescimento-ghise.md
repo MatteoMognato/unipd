@@ -12,14 +12,14 @@ Le differenze microstrutturali tra ghise sferoidali e grigie si originano propri
 ![](img/AccrescimentoGhise.png)
 L'accrescimento in una direzione aumenta con il grado di impacchettamento del piano che ha in tale direzione. 
 ![](img/AccrescimentoGrafite.png)
-#### Ghise grigie
+#### Ghise grigie o lamellari
 
 **“accrescimento cooperativo”**: l’accrescimento del solido eutettico avviene mediante l’accrescimento contemporaneo delle lamelle di grafite (mediante  il  C  presente  nel  liquido)  e  del  grano  austenitico  (mediante  il  Fe,  gli  altri  elementi  in  lega  e  il  Carbonio  solubile  nell’austenite). 
 
 #### Ghise sferoidali
 La  solidificazione  eutettica  di  queste  ghise  inizia  con  la  formazione,  in  zone  differenti,  di  noduli  di  grafite  e  di  dendriti  austenitiche.  Da  un  certo  punto  in  poi  (in  pratica  da  quando  i  noduli  hanno  raggiunto  un  diametro  critico  di  poco  superiore  ai  10  μm),  si  ha  la  presenza  di  sferoidi  grafitici  circondati  da  un  “guscio”  austenitico.  L’accrescimento  procede  contemporaneamente  nello  sferoide centrale di grafite e nel guscio austenitico. E’ chiaro però che l’accrescimento della grafite richiede  necessariamente  una  preventiva  diffusione  del  Carbonio  attraverso  il  guscio  austenitico. Si tratta del cosiddetto **“accrescimento divorziato”**: il Carbonio si separa dalla ghisa  liquida  per  diffondere  attraverso  l’austenite  e  andare  ad  ingrossare  lo  sferoide  di  grafite. In  sostanza,  nella  relazione  che  descrive  l’accrescimento,  deve  comparire  un  termine  legato alla diffusività del Carbonio nell’austenite. Man mano che il processo avanza, viene rallentato  dal  fatto  che  la  distanza  che  dev’essere  percorsa  dal  Carbonio  aumenta. 
 
-#### Ghise compatte o lamellari o vermiculari
+#### Ghise compatte o vermiculari
 
 L’appellativo “vermiculare” è riferito alla forma della grafite, la quale precipita in “vermi”, ovvero lamelle grossolane e spesse, con punte arrotondate.
 
