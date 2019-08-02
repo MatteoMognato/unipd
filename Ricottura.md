@@ -56,6 +56,6 @@ Consiste in un riscaldamento a qualche decina di gradi al di sotto di Ac1 seguit
 2. mantenimento per un certo t oppure si oscilla intorno a Ac1
 3. lento raffreddamento in modo da ottenere una coalescenza spinta della cementite
 
-E' tipica per gli acciai da cuscinetti che debbono essere lavorati alle macchine automatiche: i globuli di cementite dispersi nella matrice ferritica facilitano notevolmente la rottura del trucciolo. Si ottiene infatti una struttura avente bassa durezza, buona deformabilità plastica a freddo e lavorabilità alle macchine utensili.
+E' tipica per gli acciai da cuscinetti che debbono essere lavorati alle macchine automatiche: i globuli di cementite dispersi nella matrice ferritica facilitano notevolmente la rottura del trucciolo.
 
-Tale trattamento riduce la durezza e la tensione di rottura ma aumenta il campo plastico del materiale.
+Tale trattamento riduce la durezza e la tensione di rottura ma aumenta il campo plastico del materiale => buona deformabilità plastica a freddo e lavorabilità alle macchine utensili.
