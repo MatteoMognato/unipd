@@ -1,4 +1,4 @@
-#NUCLEAZIONE
+# NUCLEAZIONE
 La grafite: nucleazione eterogenea
 - da particelle presenti naturalmente nel bagno fuso:
 CaO, Al 2 O 3 , MgO, CaS, SiO 2 , Mg 3 N 2 , MgS, SiC, CaC
@@ -6,7 +6,7 @@ CaO, Al 2 O 3 , MgO, CaS, SiO 2 , Mg 3 N 2 , MgS, SiC, CaC
 - particelle aggiunte nel bagno come specifici inoculanti
 - una combinazione dei punti sopra citati
 
-#ACCRESCIMENTO
+# ACCRESCIMENTO
 Le differenze microstrutturali tra ghise sferoidali e grigie si originano proprio in questa fase. In  sostanza,  una  volta  formati  i  primi  nuclei,  questi  iniziano  ad  accrescersi;  in  maniera  semplificata,  si  può  dire  che  l’accrescimento  non  è  altro  che  l’espansione  dei  nuclei  formati  a  scapito  del  liquido  presente.  I  nuclei  formati  sono  costituiti,  come  è  stato  verificato da diversi ricercatori, da austenite e grafite. Si è infatti osservato che un nucleo eutettico  di  ghisa  lamellare  è  costituito  da  lamelle  di  grafite  interconnesse,  che  si  originano  al  centro  del  nucleo,  incorporate  in  una  “matrice”  di  austenite;  un  nucleo  euetettico   di   ghisa   sferoidale   è   invece   formato   (da   un   certo   punto   in   poi   della   solidificazione) da un nodulo centrale di grafite circondato da un “guscio” austenitico. Gli   atomi   che   dalla   fase   liquida   passano   a   quella   solida   devono   “selettivamente”   accrescere  l’austenite  o  la  grafite.  In  pratica,  il  carbonio  andrà  prevalentemente  ad  accrescere  la  grafite  (lamellare  o  sferoidale),  mentre  gli  atomi  di  ferro  e  degli  altri  elementi   in   lega   (compresa   una   certa   quota   di   carbonio)   dovranno   determinare   l’accrescimento dell’austenite. Le modalità con cui questo avviene sono però decisamente diverse, così come schematicamente illustrato in Figura. 
 
 ![](img/AccrescimentoGhise.png)
