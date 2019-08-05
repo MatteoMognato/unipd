@@ -6,7 +6,6 @@ E' possibile distinguerli da un punto termodinamico in stabili e instabili, tutt
 
 Creano distorsioni elastiche all'interno del reticolo o meglio stati tensionali che si traducono in un rafforzamento del materiale a causa di un incremento dell'energia interna. Questi difetti sono:
 - VANCANZE: possono essere create per deformazione plastica, irraggiamento di particelle con sorgenti ad alte energia o incremento della temperatura.
-$$ \frac{1}{2} $$
 - INTESTIZIALI: elementi chimici diversi dal materiale stesso sono posizionati nelle posizioni interstiziali del reticolo del materiale. Può trattarsi di atomi non voluti o impurezze. In generale gli interstiziali sono: **HONCB**.
 - SOSTITUZIONALI: in posizioni nodali
 - AUTO-INTERSTIZIALI
@@ -35,6 +34,8 @@ Correlazione tra lineaa dislocazione, vettore burgers, piano scorrimento:
 
 * In una dislocazione a spigolo, la linea di dislocazione è perpendicolare al vettore b e si muove nel suo piano di scorrimento nella direzione del vettore b;
 * In una dislocazione a vite, la dislocazione è // al vettore b e si muove nel suo piano di scorrimento nella direzione perpendicolare al vettore b.
+
+Il vettore di Burgers e la linea delle dislocazione individuano quindi il piano di scorrimento solo nella dislocazione a spigolo ma **non** in un dislocazione a vite
 
 ## Densità dislocazioni
 
