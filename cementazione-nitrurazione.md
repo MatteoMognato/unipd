@@ -14,6 +14,8 @@ La sostanza carburante è il monossido di carbonio (CO):
 2. Austenizzazione a temperature > 850°C
 3. Tempra con strutture martensitiche differenziate
 
+La profondità efficace di cementazione e sino a punto di flesso della curva durezza-profondità mentre la profondità totale è la distanza dalla superficie alla zona con lo 0,4% di C.
+
 ### Nitrurazione
 
 La sua durezza è data dall'azoto che con il ferro forma i nitruri caratterizzati da elevata durezza. La solubilità di N nella ferrite è bassa e alle temperature di stabilità della ferrite la diffusione è lenta, la formazione di nitruri inibisce un ulteriore diffusione di azoto.
