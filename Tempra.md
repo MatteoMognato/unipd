@@ -12,20 +12,20 @@ In un processo di tempra per avere una struttura completamente martensitica si d
 - Mf > T ambiente
 
 Il meccanismo di raffreddamento per tempra è composto da 3 fasi:
-1. Inizialmente il liquido evapora in modo istantaneo e forma uno strato stabile di vapore attorno al componente che impedisce al liquido di bollire rapidamente e induce una velocità di raffreddamento molto bassa poiché lo scambio termico è mediato da una fase gassosa. 
+1. Inizialmente il liquido evapora in modo istantaneo e forma uno strato stabile di vapore attorno al componente che impedisce al liquido di bollire rapidamente e induce una velocità di raffreddamento molto bassa poiché lo scambio termico è mediato da una fase gassosa.
 2. Scendendo di temperatura lo strato di vapore diviene instabile. Sulla superficie del componente iniziano a generarsi bolle di vapore e nuovo liquido entra in contatto col pezzo caldo per essere immediatamente vaporizzato. I violenti fenomeni convettivi che si instaurano a causa dell’ebollizione consentono di ottenere velocità di raffreddamento estremamente elevate.
-3. Il componente sarà stabilmente in contatto con il fluido che non evaporerà più. In questa fase lo scambio termico procede per convezione tra un liquido e un solido e la legge di raffreddamento torna ad essere nuovamente blanda. 
+3. Il componente sarà stabilmente in contatto con il fluido che non evaporerà più. In questa fase lo scambio termico procede per convezione tra un liquido e un solido e la legge di raffreddamento torna ad essere nuovamente blanda.
 
 ![](img/tempraFasi.png)
 
 ### Temprabilità
 
-**L'attitudine** di un acciaio ad avere una struttura **martensitica** e quindi ad accrescere la sua durezza a seguito della tempra. 
+**L'attitudine** di un acciaio ad avere una struttura **martensitica** e quindi ad accrescere la sua durezza a seguito della tempra.
 Essa si esprime mediante la **profondità** a cui arriva l'indurimento o profondità dello stato temprato generalmente indica la distanza dalla zona con 50% martensite e 50% perlite.
 
 La profondità di tempra dipende da:
 - composizione chimica
-- dimensione della grana 
+- dimensione della grana
 - entità del processo di tempra
 - dimensioni del provino
 
@@ -33,9 +33,9 @@ La profondità di tempra dipende da:
 
 E' utilizzata per capire la temprabilità di un materiale.
 
-1. Si va a sagomare il pezzo in modo opportuno secondo gli standard della prova 
-2. Austenizzazione del pezzo 
-3. inserimento nell'apposito macchinario 
+1. Si va a sagomare il pezzo in modo opportuno secondo gli standard della prova
+2. Austenizzazione del pezzo
+3. inserimento nell'apposito macchinario
 4. Raffreddare, mediante un getto d'acqua, l'estremità di un tondo dell'acciaio da esaminare portato alla T di tempra.
 5. Viene retificato di uno spessore di circa 0,4% di spessore in cui si formano gli ossidi che nella successiva prova di durezza darebbero valori assai superiori
 6. Si determina la durezza HRc (Rockwell C) lasciando uno spazio tra le varie prove di circa 1,5 mm
@@ -83,5 +83,6 @@ Prima del trattamento è necessario che l’acciaio sia stato trattato per avere
 La tempra ad induzione sfrutta le proprietà delle correnti indotte di alta frequenza di distribuirsi solo nello strato sottostante la superficie di un materiale metallico. Il pezzo di acciaio (tipicamente di forma cilindrica) viene fatto passare all’interno di una bobina induttrice opportunamente sagomata (si realizza in tal modo per effetto Joule un rapidissimo riscaldamento superficiale dell’acciaio al di sopra del punto A c3 , mentre il cuore rimane freddo), per poi introdurlo immediatamente in un bagno di tempra.
 
 La profondità di indurimento dipende dalla potenza elettrica specifica usata e dal tempo. L’esperienza consiglia di adottare elevate potenze specifiche per tempi brevi, qualora si debbano realizzare profondità di penetrazione di tempra limitate; potenze inferiori, ma tempi più lunghi, per profondità di penetrazione maggiori.
+
 ![](img/tempraInduzione.png)
 ![](img/graficiTempra.png)
