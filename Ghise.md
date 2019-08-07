@@ -1,5 +1,12 @@
 # GHISE
 
+### Ghisa conchigliata
+### Ghisa legata
+### Ghisa bianca
+
+La ghisa bianca è una ghisa senza aggiunta di leghe e con basso contenuto di C e Si in modo tale che la struttura sia in metallo duro duro, metallo duro (Fe3C, chiamato anche cementite) senza grafite libera. Una velocità di raffreddamento rapida impedisce la precipitazione di C come grafite. Invece la C, che è in soluzione nel fuso, forma il carburo di ferro. La struttura in ghisa bianca è costituita da perlite e ledeburite, una miscela eutettica di perlite (convertita da austenite) e cementite. La cementite è dura e fragile e domina la microstruttura della ghisa bianca. Pertanto, la ghisa bianca è dura e fragile e presenta una frattura cristallina bianca perché essenzialmente priva di grafite.
+La ghisa bianca non ha la facile colabilità di altri ghisa perché la sua temperatura di solidificazione è generalmente più elevata e si solidifica con C nella sua forma combinata come carburo di ferro.
+
 ### Ghisa austemperata
 
 La ghisa austemperata, comunemente detta anche ADI, è un materiale che offre simultaneamente resistenza alla fatica, resistenza all’usura, tenacità, leggerezza, ampi gradi di libertà di disegno dei componenti ed una buona lavorabilità. A valle del processo di fusione, la ghisa viene trattata termicamente. Tale processo, chiamato austempering, le conferisce proprietà meccaniche tipiche degli acciai da bonifica. Per questo la ghisa austemperata costituisce un’opportunità ed al contempo una riduzione dei costi totali di fabbricazione.
@@ -10,6 +17,7 @@ La ghisa austemperata viene prodotta trattando termicamente la ghisa duttile o s
 3. rapido raffreddamento fino a circa 300°C.  (>Ms)
 4. mantenendola per 2h dando modo alla struttura ausferritica di formarsi. La struttura caratteristica che si forma viene appunto chiamata ausferrite e consta in ferrite ed austenite sovrassatura di carbonio da cui deriva la presenza di carbonio o grafite disperso nella matrice ferrosa.
 
+La trasformazione bainitica non viene portata a termine ed avviene in 2 stadi: 1) γ--> (γ) + (α)  2) (α) + (γ)--> α + silicio-carburi
 
 ### Ghise compatte o vermiculari
 
@@ -41,3 +49,24 @@ Quindi le ghise malleabili sono una classe di ghisa con proprietà di resistenza
 * Buona resistenza a fatica e ad usura
 * Bassa conducibilità termica (sferoidi non connessi tra loro)
 * Materiale più basso fondente dell’acciaio, ma con caratteristiche meccaniche confrontabili
+
+La ghisa sferoidale è ottenuta con un **trattamento con Mg**, per indurre la morfologia sferoidale della grafite andando a causare un' incremento della duttilità.
+Tale trattamento con magnesio può avere anche effetti secondari:
+- ossidazione violenta
+- formazione di scorie, difetti nei getti, incrostamento di siviere o organi colata --> EVANESCENZA
+- formazione di cementite primaria
+- formazione di risucchi
+- necessità di modificare l'analisi chimica del metallo
+
+**TRASFORMAZIONE IN FASE SOLIDA**:
+1. Nucleazione della ferrite sui noduli della grafite
+2. Accrescimento della ferrite sino a circolare la AccrescimentoG gafite
+3. Ingrossamento dei grani ferritici
+4. Formazione di perlite che ostacola l'accrescimento di ferrite.
+5. Se il processo avviene a basse tempera la perlite si può disciogliere in grafite e ferrite.
+
+Effetto degli elementi in lega:
+- promotori di ferrite  Si, Al
+- promotori di perlite Cu, Cr, Ni, Mn, Sn, Sb
+- affinatori di perlite Cu, Ni, Mo, V
+- effetti sinergici tra i vari elementi.
